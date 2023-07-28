@@ -12,7 +12,7 @@ loc_contact: [sabbir.alam@autodesk.com]
 # Approvers who can merge PRs (Pull Requests) into the relevant branch. It is recommended to set up an alias so that
 # it does not become a bottleneck for one person. It can be a single user or alias. Engage with your DEV contact to
 # agree what should go there. Use an active directory id that is used to login git.autodesk.com.
-pr_notification_approvers: ["alams3"]
+pr_notification_approvers: ["sabbir.nit@gmail.com"]
 
 
 # In case this parameter is set to 'true', it will use PR template from .github/PULL_REQUEST_TEMPLATE.md
