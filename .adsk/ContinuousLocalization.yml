@@ -6,7 +6,7 @@ product: AKNTEST
 
 
 # LE Program Lead and Vendor Lead for the given Product/Project. This email will be used to send notifications
-loc_contact: [sabbir.alam@autodesk.com]
+loc_contact: [sabbir.nit@gmail.com]
 
 
 # Approvers who can merge PRs (Pull Requests) into the relevant branch. It is recommended to set up an alias so that
