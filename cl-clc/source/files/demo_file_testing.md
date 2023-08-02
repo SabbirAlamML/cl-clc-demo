@@ -96,7 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-* Adding one more line to test - 1
-* Adding one more line to test - 2
-* Adding one more line to test - 3
 
