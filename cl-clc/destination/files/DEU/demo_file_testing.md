@@ -94,7 +94,9 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - weitere Informationen finde
 * Hut-Tipp für alle Benutzer, deren Code verwendet wurde
 * Inspiration
 * ,  usw.
-* Eine weitere Zeile zum Test hinzufügen - 1
-* Eine weitere Zeile zum Test hinzufügen - 2
-* Eine weitere Zeile zum Test hinzufügen - 3
+* Demo wird getestet
+
+  ## Demo für CL von GitHub.com
+
+* Hallo, mein Name ist Sabbir vom L10N-Team
 
